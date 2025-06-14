@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /home/$(id -un)
+cd /home/mrx
